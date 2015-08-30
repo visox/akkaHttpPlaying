@@ -2,12 +2,12 @@
 
 example contains:
  
-* rest api with some get requests.*
+* rest api with some get requests.
 
-* actor for remembering logged users.*
+* actor for remembering logged users.
 
-* basic user structure that is passed *
+* basic user structure that is passed.
 
-* a simple test *
+* a simple test.
  
  
